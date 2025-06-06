@@ -1,1 +1,1 @@
-<h1>Great Linked Learning Courses</h1>
+<h1>Great Linked Learning</h1>

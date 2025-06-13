@@ -2,14 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Great Linked Learning</title>
-  <script src="https://app.launchdarkly.com/snippet/ldclient.min.js"></script>
+  <title>Great Linked Learning – rajivarokiaraj</title>
   <style>
-    body {
-      font-family: sans-serif;
-      padding: 20px;
-    }
-
     .btn {
       display: inline-block;
       padding: 10px 20px;
@@ -17,8 +11,8 @@
       color: white;
       text-decoration: none;
       border-radius: 5px;
+      margin-top: 10px;
     }
-
     .btn:hover {
       background-color: #005582;
     }
@@ -26,28 +20,26 @@
 </head>
 <body>
 
-  <h1>Great Linked Learning</h1>
-  <p>🔗 Direct Course Link: 
-    <a href="https://www.linkedin.com/learning/what-is-generative-ai?trk=share_ent_url&shareId=hxEWKtePTQi22R1Sannutg%3D%3D" target="_blank">
-      What is Generative AI
-    </a>
-  </p>
+  <h1>Great Linked Learning – rajivarokiaraj</h1>
 
-  <div id="preview" style="display: none;">
-    <h2>🎓 Preview Available</h2>
-    <p>Click below to view the full course on LinkedIn Learning:</p>
-    <a href="https://www.linkedin.com/learning/what-is-generative-ai?trk=share_ent_url&shareId=hxEWKtePTQi22R1Sannutg%3D%3D" target="_blank" class="btn">▶️ View Course</a>
-    
-    <h3>📺 Sample 4K Video</h3>
-    <iframe
-      width="100%"
-      height="400"
-      src="https://www.youtube.com/embed/sQ22pm-xvrE"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    ></iframe>
+  <p>Direct Course Link:</p>
+  <a href="https://www.linkedin.com/learning-login/share?account=110408730&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fwhat-is-generative-ai%3Ftrk%3Dshare_ent_url%26shareId%3DhxEWKtePTQi22R1Sannutg%253D%253D" 
+     target="_blank">
+     What is Generative AI (LinkedIn Learning)
+  </a>
+
+  <div id="preview" style="display: none; margin-top: 20px;">
+    <h2>🎓 Preview</h2>
+    <p>Click the button below to view the course on LinkedIn Learning.</p>
+    <a class="btn" 
+       href="https://www.linkedin.com/learning/what-is-generative-ai?trk=share_ent_url&shareId=hxEWKtePTQi22R1Sannutg%3D%3D" 
+       target="_blank">
+       ▶️ View Course
+    </a>
   </div>
+
+
+
 
   <script>
     // Initialize LaunchDarkly
